@@ -8,10 +8,10 @@ read ChB
 
 if [ "$ChB" = "y" ]; then
 cd $HOME
-rm -rf Virus-Gen
+rm -rf zVirus-Gen
 git clone https://github.com/ZechBron/zVirus-Gen
-cd Virus-Gen
-bash dima.sh
+cd zVirus-Gen
+bash update.sh
 elif [ "$ChB" = "n" ]; then
 echo "Ok"
 else
