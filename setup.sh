@@ -3,7 +3,7 @@
 echo "Please Choose: "
 echo " 1. Ubuntu"
 echo " 2. Termux"
-echo " 3. Other"
+echo " 3. фигня"
 read zCh
 
 if [ $zCh = 1 ]; then
@@ -24,5 +24,5 @@ apt install curl -y
 else
 echo "Wrong input"
 fi
-chmod +x update.sh
-chmod +x zVirus
+chmod +x dima.sh
+chmod +x Virus
