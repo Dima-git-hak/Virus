@@ -24,5 +24,5 @@ apt install curl -y
 else
 echo "Wrong input"
 fi
-chmod +x dima.sh
-chmod +x Virus
+chmod +x setup.sh
+chmod +x zVirus
