@@ -1,20 +1,9 @@
 #!/bin/bash
 clear
-# BANNER 
-echo -e "\e[92m ▒███████▒    ██▒   █▓ ██▓ ██▀███   █    ██   ██████ "
-echo -e " ▒ ▒ ▒ ▄▀░   ▓██░   █▒▓██▒▓██ ▒ ██▒ ██  ▓██▒▒██    ▒ "
-echo -e " ░ ▒ ▄▀▒░     ▓██  █▒░▒██▒▓██ ░▄█ ▒▓██  ▒██░░ ▓██▄   "
-echo -e "   ▄▀▒   ░     ▒██ █░░░██░▒██▀▀█▄  ▓▓█  ░██░  ▒   ██▒"
-echo -e " ▒███████▒      ▒▀█░  ░██░░██▓ ▒██▒▒▒█████▓ ▒██████▒▒"
-echo -e " ░▒▒ ▓░▒░▒      ░ ▐░  ░▓  ░ ▒▓ ░▒▓░░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░"
-echo -e " ░░▒ ▒ ░ ▒      ░ ░░   ▒ ░  ░▒ ░ ▒░░░▒░ ░ ░ ░ ░▒  ░ ░"
-echo -e " ░ ░ ░ ░ ░        ░░   ▒ ░  ░░   ░  ░░░ ░ ░ ░  ░  ░  "
-echo -e "   ░ ░             ░   ░     ░        ░           ░  "
-echo -e " ░                ░                                  \e[0m"
-echo -e "\e[91m --- Z Virus Current Version 1.1 | Coded By: Zech ---\e[0m"
-echo -e "\e[34m\"If you are too lazy to type a single command,"
-echo -e " Allow my programs to do it for you.\"\e[0m"
-echo -e " -\e[90m(https://github.com/ZechBron)\e[0m\n"
+# BANNER
+echo -e "\e[91m --- РАЗРАБОТЧИК ДМИТРИЙ ---\e[0m"
+echo -e "\e[34m\"Телеграмм @LegionXlink - Присоединяйтесь!!!"
+echo -e " Всем удачи :D\"\e[0m"
 
 # APK 
 apk() {

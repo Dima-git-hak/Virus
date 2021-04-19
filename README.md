@@ -23,12 +23,9 @@ Will be converted into python 3
 Because of consecutive storm here in our country. The update will on February
 
 
-![zVirus Created By: Zech Bron](https://raw.githubusercontent.com/ZechBron/zVirus-Gen/zVirus/IMG_20200927_175911.png)
 
 ## What does `z Virus` Actually do?
-Well __Z Virus__ is a Collection of ready made Viruses.
-In other Virus Generator tools like let's say vbug, or vcrt. It generate apk virus and you have to manually send it to your victim.
-However in __Z Virus__ All you have to do is to send the __link__ to your victim and make the victim download the virus. 
+Ну и вирус представляет собой коллекцию готовых вирусов. В других инструментах генератора вирусов, таких как, скажем, vbug, или vcrt. Он генерирует вирус APK, и вы должны вручную отправить его своей жертве. Тем не менее, в вирусе Все, что вам нужно сделать, это отправить ссылку на вашу жертву и сделать жертву скачать вирус.
 
 
 ## Install this first:

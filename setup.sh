@@ -3,7 +3,7 @@
 echo "Please Choose: "
 echo " 1. Ubuntu"
 echo " 2. Termux"
-echo " 3. фигня"
+echo " 3. Фигня"
 read zCh
 
 if [ $zCh = 1 ]; then
