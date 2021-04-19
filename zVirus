@@ -29,13 +29,13 @@ etc() {
    rm -f $newName.vbs
 }
 
-echo -e "\e[32mWhat do you want?\e[0m"
+echo -e "\e[32mЧто тебе надо?\e[0m"
 echo -e "\e[36m 1. Андроид - апк вирус"
 echo -e " 2. Винда - бат & exe вирус"
 echo -e " 3. Линукс & Термукс(рут) - shell вирус"
 echo -e " 4. Говно - vbs"
 echo -e " 5. Тоже говно - Read Me\e[0m"
-echo -e "\e[94m[\e[0m\e[92mZ\e[0m\e[94m]\e[0m \e[32mPlease Choose: \e[0m\e[34m"
+echo -e "\e[94m[\e[0m\e[92mZ\e[0m\e[94m]\e[0m \e[32mПожалуйста Выбирайте: \e[0m\e[34m"
 read zCh
 echo -e "\e[0m"
 
