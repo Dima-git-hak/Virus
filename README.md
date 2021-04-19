@@ -1,34 +1,34 @@
-# zVirus Gen [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/ZechBron/zVirus-Gen)
+# zVirus Gen [![Current Version ](https://img.shields.io/badge/Current%20Version-1.1-blue?style=flat-square)](https://github.com/Dima-git-hak/Virus)
 Those who don't know how to use VCRT. You can automatically generate a virus.
 
 ---
 
-# Next Update Version 1.4
-## Features
-Will be converted into python 3
-+ Choose Api Share
+# Следующее обновление Версия 1.4
+## Функции
+Будет преобразован в питона 3
++ Выберите Api Share
 
-   Bashuploads
+Баша нагрузок
 
-   Filepush
-   
-   Transfer.sh
-   
-   Anonfiles
+Филепуш
 
-+ Bat with Exe for deskop app.
+Transfer.sh
 
-+ I will include my dark programs
+Анонфилы
 
-Because of consecutive storm here in our country. The update will on February
++ Летучая мышь с Exe для приложения deskop.
+
+  Я буду включать мои темные программы
+
+Из-за последовательных штормов здесь, в нашей стране. Обновление будет в феврале
 
 
 
-## What does `z Virus` Actually do?
+## Что на самом деле делать?
 Ну и вирус представляет собой коллекцию готовых вирусов. В других инструментах генератора вирусов, таких как, скажем, vbug, или vcrt. Он генерирует вирус APK, и вы должны вручную отправить его своей жертве. Тем не менее, в вирусе Все, что вам нужно сделать, это отправить ссылку на вашу жертву и сделать жертву скачать вирус.
 
 
-## Install this first:
+## Установите это первым:
 __Ubuntu__
 > apt-get install git -y
 
@@ -39,8 +39,8 @@ __Other__
 > apt install git -y
 
 
-## Installation:
-> git clone https://github.com/ZechBron/zVirus-Gen
+## установка:
+> git clone https://github.com/Dima-git-hak/Virus
 
 > cd zVirus-Gen
 
@@ -49,7 +49,8 @@ __Other__
 > ./setup.sh
 
 
-## To Run:
+## Для запуска:
+
 > ./zVirus
 
 __Or__
@@ -57,12 +58,14 @@ __Or__
 > bash zVirus
 
 
-## To Update
+## Обновление
+
 > ./update.sh
 
-__Or__
+ или
 
 > bash update.sh
 
-### Note:
-Version 1.4 will be posted this 2nd week of February 2021
+### Nзаметка:
+
+Версия 1.4 будет опубликована на второй неделе февраля 2021 года
