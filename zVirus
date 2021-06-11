@@ -2,7 +2,7 @@
 clear
 # BANNER
 echo -e "\e[91m --- РАЗРАБОТЧИК ДМИТРИЙ ---\e[0m"
-echo -e "\e[34m\"Телеграмм @LegionXlink - Присоединяйтесь!!!"
+echo -e "\e[34m\"Телеграмм @Programmerlinix"
 echo -e " Всем удачи :D\"\e[0m"
 
 # APK 
